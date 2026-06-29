@@ -1,6 +1,5 @@
 describe("Login", () => {
     beforeEach(() => {
-
         cy.visit('https://automationpratice.com.br/login')
     }
 )

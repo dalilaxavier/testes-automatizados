@@ -1,8 +1,8 @@
-# Testes Automatizados
+# 🧪 Testes Automatizados
 
 Este repositório reúne os projetos de automação de testes que desenvolvo durante meus estudos voltados para Quality Assurance (QA).
 
-## Objetivo
+## 🎯 Objetivo
 
 Este repositório tem como objetivo:
 
@@ -11,7 +11,7 @@ Este repositório tem como objetivo:
 - Automatizar cenários positivos e negativos.
 - Evoluir continuamente os projetos conforme avanço nos estudos.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Cypress.
 - JavaScript.
@@ -21,22 +21,26 @@ Este repositório tem como objetivo:
 
 Novas tecnologias serão adicionadas conforme avanço nos meus estudos.
 
-## Estrutura do repositório
+## 📁 Estrutura do repositório
 
-```text
+```
 testes-automatizados/
 │
 ├── README.md
 │
 └── nome-do-projeto/
+    │
     ├── README.md
-    ├── cypress/
     ├── cypress.config.js
     ├── package.json
-    └── package-lock.json
+    ├── package-lock.json
+    └── cypress/
+        ├── e2e/
+        ├── fixtures/
+        └── support/
 ```
 
-## Feedbacks e Sugestões
+##  💬 Feedbacks e Sugestões
 
 Este repositório é mantido com foco em aprendizado e evolução contínua.
 

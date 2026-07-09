@@ -66,8 +66,8 @@ qazando-shop/
 ## 🚀 Como executar o projeto
 1. Clonar o repositório - git clone <URL_DO_REPOSITORIO>
 2. Acessar a pasta do projeto - cd qazando-shop
-3. Instalar dependências - npm install
-4. Abrir o Cypress - npx cypress 
+3. Instalar dependências - npm install cypress
+4. Abrir o Cypress - npx cypress open
 
 ## 💬 Feedbacks
 
